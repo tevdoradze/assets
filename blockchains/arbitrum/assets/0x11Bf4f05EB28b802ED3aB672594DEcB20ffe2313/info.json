@@ -14,10 +14,6 @@
       "url": "https://twitter.com/auroryproject"
     },
     {
-      "name": "discord",
-      "url": "https://discord.gg/aurory"
-    },
-    {
       "name": "telegram",
       "url": "https://t.me/aurory_project"
     },
@@ -29,5 +25,6 @@
       "name": "coingecko",
       "url": "https://www.coingecko.com/en/coins/aurory"
     }
-  ]
+  ],
+  "tags": ["gamefi", "nft"]
 }
